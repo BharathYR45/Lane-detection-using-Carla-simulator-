@@ -5,8 +5,11 @@ This study explores lane recognition in autonomous vehicle navigation using trad
 
 **Methodology**
 
-Gaussian Blur: Initially applied to reduce noise in the images.
-Canny Edge Detection: Used to highlight the edges of the lanes.
-Hough Transform: Identifies and maps straight lines to corresponding lanes, adapting to different lighting and road conditions.
+- Gaussian Blur: Initially applied to reduce noise in the images.
+- Canny Edge Detection: Used to highlight the edges of the lanes.
+- Hough Transform: Identifies and maps straight lines to corresponding lanes, adapting to different lighting and road conditions.
+
+  **Output**
+
 
 
