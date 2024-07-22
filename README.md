@@ -9,7 +9,10 @@ This study explores lane recognition in autonomous vehicle navigation using trad
 - Canny Edge Detection: Used to highlight the edges of the lanes.
 - Hough Transform: Identifies and maps straight lines to corresponding lanes, adapting to different lighting and road conditions.
 
-  **Output**
+**Output**
+
+<img src="output.jpg" alt="Lane Detection" width="400" height="300"/>
+
 
 
 
